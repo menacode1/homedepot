@@ -13,3 +13,5 @@ This repository contains Terraform configurations and Ansible playbooks for depl
 1. Configure `variables.tf` with the desired values.
 2. Run the Terraform scripts to create infrastructure.
 3. Use Ansible playbooks for application deployment.
+
+## Creating a repository for Home Depot terraform files
